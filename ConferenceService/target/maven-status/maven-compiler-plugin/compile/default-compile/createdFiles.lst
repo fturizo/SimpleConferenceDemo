@@ -1,0 +1,11 @@
+fish\payara\demos\conference\services\DataInitializer.class
+fish\payara\demos\conference\entities\Session.class
+fish\payara\demos\conference\ConferenceApplication.class
+fish\payara\demos\conference\entities\Speaker.class
+fish\payara\demos\conference\entities\SessionRegistration.class
+fish\payara\demos\conference\api\SpeakerResource.class
+fish\payara\demos\conference\api\SessionResource.class
+fish\payara\demos\conference\services\SessionService.class
+fish\payara\demos\conference\api\CorsProcessingFilter.class
+fish\payara\demos\conference\api\RegistrationResource.class
+fish\payara\demos\conference\services\SpeakerService.class

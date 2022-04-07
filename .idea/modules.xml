@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConferenceService/ConferenceService.iml" filepath="$PROJECT_DIR$/ConferenceService/ConferenceService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleConferenceDemo.iml" filepath="$PROJECT_DIR$/SimpleConferenceDemo.iml" />
+    </modules>
+  </component>
+</project>
