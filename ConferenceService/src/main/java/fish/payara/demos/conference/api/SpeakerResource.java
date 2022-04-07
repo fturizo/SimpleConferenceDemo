@@ -38,8 +38,8 @@ public class SpeakerResource {
     @Path("/all")
     public List<Speaker> allSpeakers() {
         List<Speaker> all = speakerService.getAll();
-        /*List<Speaker> all1 = speakerService.getAll();
-        all.addAll(all1)*/;
+        List<Speaker> all1 = speakerService.getAll();
+        all.addAll(all1);
         return all;
     }
 
